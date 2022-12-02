@@ -1,7 +1,7 @@
 export default function Index() {
   return (
     <div className="bg-red-200">
-      <h1>Welcome to jan Remix</h1>
+      <h1>Welcome to Remix</h1>
       <ul>
         <li>
           <a
